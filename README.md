@@ -6,7 +6,11 @@ Typically, you will want to replace "carry on" with your own text. The main page
 - "Change Text" is used to replace "carry on" with your own text. Two versions of the posters are displayed. The left-hand side one is an HTML representation. The right-hand side one is the generated PNG image. You may visually verify it.
 - "Save PNG" is used to download and save the PNG image. It is the same as sight-click on the PNG file and selected "Save image as..." (depending on your browser).
 
+The `index.html` file is a simple redirection to `keep-calm.html` and is provided as a convenience for direct access on Web servers.
+
 The PNG generation is performed using `html2canvas`. See the [home page](https://html2canvas.hertzen.com/) and the [Github project](https://github.com/niklasvh/html2canvas).
+
+The generation can be used [here](https://lelegard.github.io/keep-calm/).
 
 ### Limitations
 
